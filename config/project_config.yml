@@ -1,3 +1,4 @@
+
 catalog: redcare_dev
 schema: operations
 
@@ -7,7 +8,6 @@ volumes:
 
 paths:
   orders_subpath: orders
-  
 
 tables:
   bronze_orders: bronze_orders
@@ -16,5 +16,5 @@ tables:
   gold_order_status: gold_order_status
   gold_inventory_summary: gold_inventory_sumary
 
-  rules:
-    high_value_threshold: 250
+rules:
+  high_value_threshold: 250
