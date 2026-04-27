@@ -1,0 +1,20 @@
+catalog: redcare_dev
+schema: operations
+
+volumes:
+  landing: landing
+  checkpoints: checkpoints
+
+paths:
+  orders_subpath: orders
+  
+
+tables:
+  bronze_orders: bronze_orders
+  silver_orders: silver_orders
+  gold_daily_orders: gold_daily_orders
+  gold_order_status: gold_order_status
+  gold_inventory_summary: gold_inventory_sumary
+
+  rules:
+    high_value_threshold: 250
