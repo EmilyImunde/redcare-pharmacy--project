@@ -1,1 +1,10 @@
+bundle:
+  name: redcare-pharmacy--project
+include:
+ - resources/*.yml
 
+targets:
+  dev:
+    default: true
+    workspace:
+      host: https://dbc-58959988-a549.cloud.databricks.com/ 
