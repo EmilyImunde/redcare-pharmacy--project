@@ -1,0 +1,11 @@
+order_id,customer_id,product_category,order_status,order_amount,order_date,delivery_status,inventory_level,last_updated_ts
+R1001,C101,MEDICINE,placed,45.90,2026-04-27,pending,120,2026-04-27 08:05:00
+R1002,C102,SUPPLEMENTS,shipped,89.40,2026-04-27,in_transit,80,2026-04-27 08:06:00
+R1003,C103,SKINCARE,placed,18.70,2026-04-27,pending,230,2026-04-27 08:07:00
+R1004,C104,MEDICINE,delivered,155.00,2026-04-27,delivered,60,2026-04-27 08:08:00
+R1005,C105,BABY_CARE,placed,64.50,2026-04-27,pending,95,2026-04-27 08:09:00
+R1006,C106,MEDICINE,cancelled,32.00,2026-04-27,cancelled,45,2026-04-27 08:10:00
+R1007,C107,SUPPLEMENTS,shipped,112.00,2026-04-27,in_transit,70,2026-04-27 08:11:00
+R1008,C108,SKINCARE,placed,0.00,2026-04-27,pending,210,2026-04-27 08:12:00
+R1009,C109,MEDICINE,placed,73.20,2026-04-27,pending,115,2026-04-27 08:13:00
+R1010,C110,BABY_CARE,delivered,41.30,2026-04-27,delivered,88,2026-04-27 08:14:00

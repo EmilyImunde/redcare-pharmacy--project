@@ -1,0 +1,4 @@
+order_id,customer_id,product_category,order_status,order_amount,order_date,delivery_status,inventory_level,last_updated_ts
+R1001,C101,MEDICINE,SHIPPED,45.90,2026-04-27,IN_TRANSIT,120,2026-04-27 10:00:00
+R1005,C105,BABY_CARE,DELIVERED,64.50,2026-04-27,DELIVERED,95,2026-04-27 10:05:00
+R1016,C116,MEDICINE,PLACED,215.00,2026-04-28,PENDING,47,2026-04-28 10:10:00
